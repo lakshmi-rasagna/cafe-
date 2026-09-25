@@ -15,7 +15,7 @@ body {
 }
 
 
-/* ================= NAVBAR ================= */
+
 
 header {
     position: absolute;
@@ -79,7 +79,7 @@ header {
 }
 
 
-/* ================= HERO ================= */
+
 
 .hero {
     min-height: 680px;
@@ -204,7 +204,6 @@ header {
 }
 
 
-/* ================= COMMON ================= */
 
 section {
     padding: 100px 8%;
@@ -233,7 +232,7 @@ section {
 }
 
 
-/* ================= MENU ================= */
+
 
 .menu-section {
     background: #fffaf5;
@@ -337,7 +336,7 @@ section {
 }
 
 
-/* ================= ABOUT ================= */
+
 
 .about-section {
     background: #3b2920;
@@ -409,7 +408,7 @@ section {
 }
 
 
-/* ================= GALLERY ================= */
+
 
 .gallery-section {
     background: white;
@@ -469,7 +468,7 @@ section {
 }
 
 
-/* ================= CONTACT ================= */
+
 
 .contact-section {
     background: #f2e7dc;
@@ -541,7 +540,7 @@ section {
 }
 
 
-/* ================= FOOTER ================= */
+
 
 footer {
     background: #241913;
@@ -576,7 +575,6 @@ footer p {
 }
 
 
-/* ================= RESPONSIVE ================= */
 
 @media (max-width: 900px) {
 

@@ -1,4 +1,4 @@
-// ================= MENU FILTER =================
+
 
 function filterMenu(category) {
 
@@ -25,7 +25,7 @@ function filterMenu(category) {
 }
 
 
-// ================= CONTACT FORM =================
+
 
 function submitForm(event) {
 
@@ -38,7 +38,7 @@ function submitForm(event) {
 }
 
 
-// ================= NAVBAR ACTIVE LINK =================
+
 
 const navLinks = document.querySelectorAll(".nav-links a");
 
